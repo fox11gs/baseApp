@@ -12,7 +12,7 @@ public class Permiso {
 		this.id = id;
 	}
 	public String getNombrePermiso() {
-		return nombrePermiso;
+		return "X";
 	}
 	public void setNombrePermiso(String nombrePermiso) {
 		this.nombrePermiso = nombrePermiso;
